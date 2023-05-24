@@ -1,1 +1,7 @@
 
+2023-04-28T14:20:12.172Z CNTRLR » [Node 018] pinging the node...
+2023-04-28T14:20:12.187Z CNTRLR   [Node 018] The node is alive.
+
+---after send the exploit----
+2023-04-28T02:22:19.102Z CNTRLR   [Node 018] The node did not respond after 1 attempts, it is presumed dead
+2023-04-28T02:22:19.102Z CNTRLR   [Node 018] The node is now dead.
