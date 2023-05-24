@@ -1,1 +1,6 @@
+2023-04-27 19:46:00,492 New device joined: 0x2f72, 28:2c:02:bf:ff:ea:08:f4
+2023-04-27 19:46:00,492 Device 0x2f72 (28:2c:02:bf:ff:ea:08:f4) joined the network
 
+---after send the exploit----
+2023-04-27 19:46:05,708 New device joined: 0x2f72, 28:2c:02:bf:ff:ea:08:f4
+2023-04-27 19:46:05,709 Device 0x2f72 (28:2c:02:bf:ff:ea:08:f4) joined the network
