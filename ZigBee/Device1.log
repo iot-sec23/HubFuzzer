@@ -1,1 +1,10 @@
 
+2022-10-21 17:26:37,982  New device joined: 0x32b1, 00:0d:6f:00:0a:7b:c2:ef
+2022-10-21 17:26:37,983  Device 0x32b1 (00:0d:6f:00:0a:7b:c2:ef) joined the network
+
+---after send the exploit----
+2022-10-21 17:28:44,243  New device joined: 0x32b1, 00:0d:6f:00:0a:7b:c2:ef
+2022-10-21 17:28:44,244  Device 0x32b1 (00:0d:6f:00:0a:7b:c2:ef) joined the network
+
+2022-10-21 17:36:56,361  New device joined: 0x32b1, 00:0d:6f:00:0a:7b:c2:ef
+2022-10-21 17:36:56,362  Device 0x32b1 (00:0d:6f:00:0a:7b:c2:ef) joined the network
