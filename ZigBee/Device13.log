@@ -2,7 +2,7 @@
 2022-12-02 15:42:05,563 New device joined: 0xbff3, b0:ce:18:14:03:5d:f1:c3
 2022-12-02 15:42:05,563 evice 0xbff3 (b0:ce:18:14:03:5d:f1:c3) joined the network
 
----after send the exploit
+---after send the exploit----
 2022-12-02 15:45:08,500 Frame received: 0x1c8c000c000500024788ffe7
 2022-12-02 15:45:08,504 Frame received: 0x1c8d000c000500024788ffe7
 2022-12-02 15:45:08,506 Frame received: 0x1c8e000c000500024788ffe8
