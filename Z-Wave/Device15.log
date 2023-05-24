@@ -1,1 +1,8 @@
 
+2023-04-28T14:18:05.256Z CNTRLR « [Node 015] ping successful
+
+---after send the exploit----
+2023-04-28T14:18:11.508Z DRIVER « [REQ] [SendData]
+                                    transmit status: NoAck
+2023-04-28T14:18:11.509Z CNTRLR   [Node 015] The node did not respond after 1 attempts, it is presumed dead
+2023-04-28T14:18:11.509Z CNTRLR   [Node 015] The node is now dead.
