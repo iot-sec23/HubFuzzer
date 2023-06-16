@@ -29,8 +29,8 @@ Given the massive difficulty in emulating IoT firmware, blackbox fuzzing of IoT 
 |Sengled Strip E1G-G85|	5	|8	|[CVE-2022-47100](https://nvd.nist.gov/vuln/detail/CVE-2022-47100)|
 |Third Reality 3RSB015BZ|	6|	2|	[CVE-2023-29780](https://nvd.nist.gov/vuln/detail/CVE-2023-29780)|
 |Sengled E1E-G7F	|13|	1	|[CVE-2023-29779](https://nvd.nist.gov/vuln/detail/CVE-2023-29779)|
-|Aeotec ZW130-A	|15	|1	|Under Review |
-|Fibaro FGMS-001	|18	|1	|Under Review |
+|Aeotec ZW130-A	|15	|1	|CVE-2023-34596 |
+|Fibaro FGMS-001	|18	|1	|CVE-2023-34597 |
 
 ## License
 
