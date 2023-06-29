@@ -4,7 +4,7 @@
 This repository was created for the project "No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware".
 
 ## Research Paper
-This work is published on MobiSys'23 [Link]([(https://dl.acm.org/doi/10.1145/3581791.3596857]).
+This work is published on MobiSys'23 [Link](https://dl.acm.org/doi/10.1145/3581791.3596857).
 If you use `HubFuzzer` in a scientific publication, we would appreciate citations using this **Bibtex** entry:
 ```
 @inproceedings{ma2023nomore,
