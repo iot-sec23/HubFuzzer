@@ -4,7 +4,7 @@
 This repository was created for the project "No More Companion Apps Hacking but One Dongle: Hub-Based Blackbox Fuzzing of IoT Firmware".
 
 ## Research Paper
-This work is published on MobiSys'23 [Link](https://www.sigmobile.org/mobisys/2023/accepted-papers.html).
+This work is published on MobiSys'23 [Link]([https://www.sigmobile.org/mobisys/2023/accepted-papers.html](https://dl.acm.org/doi/10.1145/3581791.3596857).
 If you use `HubFuzzer` in a scientific publication, we would appreciate citations using this **Bibtex** entry:
 ```
 @inproceedings{ma2023nomore,
@@ -29,8 +29,8 @@ Given the massive difficulty in emulating IoT firmware, blackbox fuzzing of IoT 
 |Sengled Strip E1G-G85|	5	|8	|[CVE-2022-47100](https://nvd.nist.gov/vuln/detail/CVE-2022-47100)|
 |Third Reality 3RSB015BZ|	6|	2|	[CVE-2023-29780](https://nvd.nist.gov/vuln/detail/CVE-2023-29780)|
 |Sengled E1E-G7F	|13|	1	|[CVE-2023-29779](https://nvd.nist.gov/vuln/detail/CVE-2023-29779)|
-|Aeotec ZW130-A	|15	|1	|CVE-2023-34596 |
-|Fibaro FGMS-001	|18	|1	|CVE-2023-34597 |
+|Aeotec ZW130-A	|15	|1	|[CVE-2023-34596](https://nvd.nist.gov/vuln/detail/CVE-2023-34596) |
+|Fibaro FGMS-001	|18	|1	|[CVE-2023-34597](https://nvd.nist.gov/vuln/detail/CVE-2023-34597) |
 
 ## License
 
